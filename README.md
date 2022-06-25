@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DonGunchi
+- 👀 I’m interested in making money and chill. And coding sometimes
+- 🌱 I’m currently learning solidity
